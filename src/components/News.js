@@ -70,6 +70,7 @@ const News = (props) => {
     )
 }
 
+
 News.defaultProps = {
     pageSize: 6,
     country: 'in',
